@@ -2,10 +2,10 @@ def add(x,y) :
     return x+y 
 
 def sub(x,y) :
-    pass 
+    pass
 
 def mul(x,y) :
-    pass 
+    return x*y 
 
 def div(x,y) :
     pass 
